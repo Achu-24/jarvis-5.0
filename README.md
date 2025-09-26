@@ -38,5 +38,10 @@ Jarvis5.0 is a personal voice AI assistant built with **Python**, **LiveKit**, a
 1. Clone the repository:
 
 ```bash
+
 git clone https://github.com/Achu-24/jarvis-5.0.git
 cd jarvis-5.0
+
+python agent.py download-files
+python agent.py console
+
