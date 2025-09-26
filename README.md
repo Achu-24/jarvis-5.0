@@ -40,15 +40,19 @@ Jarvis5.0 is a personal voice AI assistant built with **Python**, **LiveKit**, a
 In bash
 
 git clone https://github.com/Achu-24/jarvis-5.0.git
+
 cd jarvis-5.0
 
 ## Install dependencies
 
 pip install python-dotenv
+
 pip install livekit-agents
+
 pip install livekit-plugins-google livekit-plugins-noise-cancellation
 
 ## Run the agent 
 python agent.py download-files
+
 python agent.py console
 
